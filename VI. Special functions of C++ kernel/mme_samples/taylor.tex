@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\title{Taylor Series Expansion}
+\author{Shiroi Neko}
+\date{\today}
+
+\maketitle
+
+\section{Introduction}
+The Taylor series expansion represents a function as an infinite sum of terms involving its derivatives evaluated at a particular point. It is expressed as:
+
+\begin{equation}
+f(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + \frac{f'''(a)}{3!}(x-a)^3 + \cdots
+\end{equation}
+
+where $f(x)$ is the function to be approximated, $a$ is the point around which the series is expanded, and $f^{(n)}(a)$ denotes the $n$th derivative of $f(x)$ evaluated at $a$.
+
+\section{Example}
+Let's consider the Taylor series expansion of the function $f(x) = \sin(x)$ around $a = 0$. The derivatives of $\sin(x)$ at $x=0$ are:
+
+\begin{align*}
+f(0) &= \sin(0) = 0 \\
+f'(0) &= \cos(0) = 1 \\
+f''(0) &= -\sin(0) = 0 \\
+f'''(0) &= -\cos(0) = -1 \\
+& \text{and so on.}
+\end{align*}
+
+Therefore, the Taylor series expansion of $\sin(x)$ around $x=0$ is:
+
+\begin{equation}
+\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots
+\end{equation}
+
+\end{document}
