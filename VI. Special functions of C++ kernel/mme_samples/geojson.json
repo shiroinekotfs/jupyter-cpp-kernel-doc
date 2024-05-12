@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [102.0, 0.5]
+  },
+  "properties": {
+    "name": "Sample Point",
+    "description": "This is a sample GeoJSON point feature."
+  }
+}
