@@ -5,10 +5,8 @@
 
 [![CodeQL](https://github.com/shiroinekotfs/jupyter-cpp-kernel/actions/workflows/codeql.yml/badge.svg)](https://github.com/shiroinekotfs/jupyter-cpp-kernel/actions/workflows/codeql.yml)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/shiroinekotfs/jupyter-cpp-kernel)
-![GitHub Repo stars](https://img.shields.io/github/stars/shiroinekotfs/jupyter-cpp-kernel)
-[![Total Downloads](https://static.pepy.tech/badge/jupyter-cpp-kernel)](https://pepy.tech/project/jupyter-cpp-kernel)
-[![Downloads](https://static.pepy.tech/badge/jupyter-cpp-kernel/month)](https://pepy.tech/project/jupyter-cpp-kernel)
+![GitHub repo size](https://img.shields.io/github/repo-size/shiroinekotfs/jupyter-cpp-kernel-doc)
+![GitHub Repo stars](https://img.shields.io/github/stars/shiroinekotfs/jupyter-cpp-kernel-doc)
 
 # Documentation for Jupyter C++ kernel
 
