@@ -2,7 +2,7 @@
 > * For C/C++ header add-on development, [try this template](https://github.com/shiroinekotfs/jupyter-cpp-header-template)
 > * [Security issue with Jupyter Notebooks](https://github.com/shiroinekotfs/jupyter-cpp-kernel/discussions/20)
 > * [Track `jupyter-cpp-kernel` on PePY](https://www.pepy.tech/projects/jupyter-cpp-kernel)
-> * Run now on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiroinekotfs/jupyter-cpp-kernel-doc/stable?filepath=Getting%20started.ipynb)
+> * Run now on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiroinekotfs/jupyter-cpp-kernel-doc/main)
 
 [![CodeQL](https://github.com/shiroinekotfs/jupyter-cpp-kernel/actions/workflows/codeql.yml/badge.svg)](https://github.com/shiroinekotfs/jupyter-cpp-kernel/actions/workflows/codeql.yml)
 
@@ -17,7 +17,7 @@
 
 If you want to interact with the C++ kernel online, you can try to use Binder:
 
-[![Binder](https://raw.githubusercontent.com/shiroinekotfs/jupyter-cpp-kernel-doc/38dff4d01ef4afdcc9b2370830201ce40324431e/binder-logo.svg)](https://mybinder.org/v2/gh/shiroinekotfs/jupyter-cpp-kernel-doc/stable?filepath=Getting%20started.ipynb)
+[![Binder](https://raw.githubusercontent.com/shiroinekotfs/jupyter-cpp-kernel-doc/38dff4d01ef4afdcc9b2370830201ce40324431e/binder-logo.svg)](https://mybinder.org/v2/gh/shiroinekotfs/jupyter-cpp-kernel-doc/main)
 
 ## Contributing
 
