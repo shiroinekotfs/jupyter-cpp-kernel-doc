@@ -6,4 +6,4 @@ dependencies:
   - gcc=13.2
   - pip
   - pip:
-    - jupyter-cpp-kernel>=1.0.0a8
+    - jupyter-cpp-kernel>=1.0.0a9
